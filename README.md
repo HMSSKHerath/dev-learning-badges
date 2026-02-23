@@ -7,12 +7,12 @@ This repository showcases my learning achievements across **GitHub Actions, Dock
 ## 🎖️ All Badges
 
 <p>
-  <img src="images/Github.png" width="120" />
-  <img src="images/Beginner.png" width="120" />
-  <img src="images/Intermediate.png" width="120" />
-  <img src="images/Advanced.png" width="120" />
-  <img src="images/Docker.png" width="120" />
-  <img src="images/Api.png" width="120" />
+  <img src="../dev-learning-badges/images/Github.png" width="120" />
+  <img src="../dev-learning-badges/images/Github-Action-Beginner.png" width="120" />
+  <img src="../dev-learning-badges/images/Intermediate.png" width="120" />
+  <img src="../dev-learning-badges/images/Advanced.png" width="120" />
+  <img src="../dev-learning-badges/images/Docker.png" width="120" />
+  <img src="../dev-learning-badges/images/Api.png" width="120" />
 </p>
 
 ---
