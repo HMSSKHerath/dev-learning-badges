@@ -30,6 +30,9 @@ I have successfully implemented and verified the following automated workflows:
 * [✅] **Task 7:** Matrix testing across 3 Node.js versions in parallel
 
 ### Phase 3: Advanced
+* [✅] **Task 8:** Artifacts uploaded & downloaded between jobs
+* [✅] **Task 9:** Conditional execution (deployment logic for `main` branch only)
+* [✅] **Task 10:** Pull Request and Issue creation using standardized templates
 
 ---
 
@@ -48,7 +51,9 @@ I have successfully implemented the following tasks. Each checkmark below links 
 * [✅] **Task 7:** Matrix testing across 3 Node versions — [View Run](https://github.com/HMSSKHerath/github-actions-learning/actions/runs/21745251895)
 
 ### Phase 3: Advanced
-
+* [✅] **Task 8:** Artifacts uploaded & downloaded between jobs — [View Run](https://github.com/HMSSKHerath/github-actions-learning/actions/runs/21776909794)
+* [✅] **Task 9:** Conditional execution (Main vs Develop) — [Main Run](https://github.com/HMSSKHerath/github-actions-learning/actions/runs/21777199390) / [Develop Run](https://github.com/HMSSKHerath/github-actions-learning/actions/runs/21777264959)
+* [✅] **Task 10:** Standardized Templates — [View PR #120](https://github.com/nisalgunawardhana/github-actions-learning/pull/120) / [View Issue #121](https://github.com/nisalgunawardhana/github-actions-learning/issues/121)
 ---
 
 ## 🎖️ My Badges & Progress
@@ -58,7 +63,7 @@ Below is the visual representation of my progress. Each badge is earned by compl
 | :---: | :--- | :---: | :--- |
 | <img src="../images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginner** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
 | <img src="../images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
-| <img src="../images/Github-Action-Advanced.png" width="80"> | **GitHub Advanced** | ⏳ In Progress | *Coming Soon* |
+| <img src="../images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
 
 ---
 
