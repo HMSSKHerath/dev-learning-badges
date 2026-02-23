@@ -10,7 +10,7 @@ This repository showcases my learning achievements across **GitHub Actions, Dock
   <img src="../dev-learning-badges/images/Github.png" width="120" />
   <img src="../dev-learning-badges/images/Github-Action-Beginner.png" width="120" />
   <img src="../dev-learning-badges/images/Github-Action-Intermediate.png" width="120" />
-  <img src="../dev-learning-badges/images/Advanced.png" width="120" />
+  <img src="../dev-learning-badges/images/Github-Action-Advanced.png" width="120" />
   <img src="../dev-learning-badges/images/Docker.png" width="120" />
   <img src="../dev-learning-badges/images/Api.png" width="120" />
 </p>
@@ -64,7 +64,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 | <img src="../images/GitHub.png" width="80"> | **GitHub for Beginner** | 📝 Planned | *Coming Soon* |
 | <img src="../dev-learning-badges/images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginner** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
 | <img src="../dev-learning-badges/images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
-| <img src="images/Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
+| <img src="../dev-learning-badges/images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
 | <img src="images/Docker.png" width="80"> | **Docker 101** | 📝 Planned | *Coming Soon* |
 | <img src="images/API.png" width="80"> | **API Learning 101** | 📝 Planned | *Coming Soon* |
 
