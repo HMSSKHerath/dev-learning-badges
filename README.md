@@ -61,8 +61,8 @@ Below are the tasks I have completed and the badges I have earned. This section 
 
 | Badge | Task Description | Status | Proof (PR / Issue) |
 | :---: | :--- | :---: | :--- |
-| <img src="images/GitHub.png" width="80"> | **GitHub for Beginner** | 📝 Planned | *Coming Soon* |
-| <img src="images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginner** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
+| <img src="images/GitHub.png" width="80"> | **GitHub 101 - Github for Beginners** | 📝 Planned | *Coming Soon* |
+| <img src="images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginners** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
 | <img src="images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
 | <img src="images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
 | <img src="images/Docker.png" width="80"> | **Docker 101** | 📝 Planned | *Coming Soon* |
@@ -74,7 +74,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 ## 📚 Learning References & Resources
 This project is part of a learning journey based on the following repositories. All credits go to the original author for the excellent content.
 
-* **GitHub for Beginners:** [nisalgunawardhana/Github-for-beginners](https://github.com/nisalgunawardhana/Github-for-beginners)
+* **GitHub 101 - Github for Beginners:** [nisalgunawardhana/Github-for-beginners](https://github.com/nisalgunawardhana/Github-for-beginners)
 * **GitHub Actions Learning:** [nisalgunawardhana/github-actions-learning](https://github.com/nisalgunawardhana/github-actions-learning)
 * **Docker 101:** [nisalgunawardhana/docker-101](https://github.com/nisalgunawardhana/docker-101)
 * **API Learning 101:** [nisalgunawardhana/api-learning-101](https://github.com/nisalgunawardhana/api-learning-101)
