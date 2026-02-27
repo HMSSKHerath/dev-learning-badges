@@ -61,7 +61,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 
 | Badge | Task Description | Status | Proof (PR / Issue) |
 | :---: | :--- | :---: | :--- |
-| <img src="images/GitHub.png" width="80"> | **GitHub 101 - Github for Beginners** | 📝 Planned | *Coming Soon* |
+| <img src="images/GitHub.png" width="80"> | **GitHub 101 - Github for Beginners** | ✅ Completed | *Coming Soon* |
 | <img src="images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginners** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
 | <img src="images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
 | <img src="images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
