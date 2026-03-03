@@ -74,7 +74,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 ## 📚 Learning References & Resources
 This project is part of a learning journey based on the following repositories. All credits go to the original author for the excellent content.
 
-* **GitHub 101 - Github for Beginners:** [nisalgunawardhana/Github-for-beginners](https://github.com/nisalgunawardhana/Github-for-beginners)
+* **GitHub 101 - Github For Beginners:** [nisalgunawardhana/Github-for-beginners](https://github.com/nisalgunawardhana/Github-for-beginners)
 * **GitHub Actions Learning:** [nisalgunawardhana/github-actions-learning](https://github.com/nisalgunawardhana/github-actions-learning)
 * **Docker 101:** [nisalgunawardhana/docker-101](https://github.com/nisalgunawardhana/docker-101)
 * **API Learning 101:** [nisalgunawardhana/api-learning-101](https://github.com/nisalgunawardhana/api-learning-101)
