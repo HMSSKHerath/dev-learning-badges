@@ -34,7 +34,7 @@ See detailed task breakdown:
 dev-learning-badges/
 │
 ├── images/                  ← Badges images folder
-│   ├── GitHub-for-Beginner.png
+│   ├── Github-For-Beginner.png
 │   ├── Github-Action-Beginner.png
 │   ├── Github-Action-Intermediate.png
 │   ├── Github-Action-Advanced.png
@@ -42,8 +42,8 @@ dev-learning-badges/
 │   └── API.png
 │
 ├── badges/                  ← Individual badge/task files (Markdown)
-│   ├── GitHub-Beginner.md   ← GitHub beginner tasks details
-│   ├── GitHub-Actions.md    ← GitHub Actions tasks details
+│   ├── Github-Beginner.md   ← GitHub beginner tasks details
+│   ├── Github-Actions.md    ← GitHub Actions tasks details
 │   ├── Docker.md            ← Docker tasks details
 │   └── API.md               ← API tasks details
 │
@@ -61,7 +61,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 
 | Badge | Task Description | Status | Proof (PR / Issue) |
 | :---: | :--- | :---: | :--- |
-| <img src="images/GitHub.png" width="80"> | **GitHub 101 - Github for Beginners** | ✅ Completed | [PR #453](https://github.com/nisalgunawardhana/Github-for-beginners/pull/453) / [Issue #454](https://github.com/nisalgunawardhana/Github-for-beginners/issues/454) |
+| <img src="images/GitHub.png" width="80"> | **GitHub 101 - GitHub For Beginners** | ✅ Completed | [PR #453](https://github.com/nisalgunawardhana/Github-for-beginners/pull/453) / [Issue #454](https://github.com/nisalgunawardhana/Github-for-beginners/issues/454) |
 | <img src="images/Github-Action-Beginner.png" width="80"> | **GitHub Action Learning Beginners** | ✅ Completed | [PR #93](https://github.com/nisalgunawardhana/github-actions-learning/pull/93) / [Issue #95](https://github.com/nisalgunawardhana/github-actions-learning/issues/95) |
 | <img src="images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
 | <img src="images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
