@@ -12,7 +12,7 @@ This repository showcases my learning achievements across **GitHub Actions, Dock
   <img src="images/Github-Action-Intermediate.png" width="120" />
   <img src="images/Github-Action-Advanced.png" width="120" />
   <img src="images/Docker.png" width="120" />
-  <img src="images/Api.png" width="120" />
+  <img src="images/API.png" width="120" />
 </p>
 
 ---
