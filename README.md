@@ -66,7 +66,7 @@ Below are the tasks I have completed and the badges I have earned. This section 
 | <img src="images/Github-Action-Intermediate.png" width="80"> | **GitHub Action Learning Intermediate** | ✅ Completed | [PR #104](https://github.com/nisalgunawardhana/github-actions-learning/pull/104) / [Issue #105](https://github.com/nisalgunawardhana/github-actions-learning/issues/105) |
 | <img src="images/Github-Action-Advanced.png" width="80"> | **GitHub Action Learning Advanced** | ✅ Completed | [PR #122](https://github.com/nisalgunawardhana/github-actions-learning/pull/122) / [Issue #123](https://github.com/nisalgunawardhana/github-actions-learning/issues/123) |
 | <img src="images/Docker.png" width="80"> | **Docker 101** | 📝 Planned | *Coming Soon* |
-| <img src="images/API.png" width="80"> | **API Learning 101** | 📝 Planned | *Coming Soon* |
+| <img src="images/API.png" width="80"> | **API Learning 101** | ✅ Completed | *Coming Soon* |
 
 
 ---
